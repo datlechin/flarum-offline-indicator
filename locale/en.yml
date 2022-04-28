@@ -1,0 +1,4 @@
+datlechin-offline-indicator:
+  forum:
+    offline: No Internet connection. Please check the network.
+    online: You are online now.
